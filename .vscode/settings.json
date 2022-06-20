@@ -1,0 +1,225 @@
+{
+    "editor.semanticTokenColorCustomizations": {
+        "[Default Light+]": {
+            "enabled": true,
+            "rules": {
+                "noun": {
+                    "foreground": "#4e549a"
+                },
+                "noun.dialogue": {
+                    "foreground": "#20a23a"
+                },
+                "proper_noun": {
+                    "foreground": "#0041cc"
+                },
+                "proper_noun.dialogue": {
+                    "foreground": "#004b70",
+                    "fontStyle": "bold"
+                },
+                "enum": {
+                    "foreground": "#001c78"
+                },
+                "enum.dialogue": {
+                    "foreground": "#00b4a8"
+                },
+                "suffix": {
+                    "foreground": "#676767"
+                },
+                "suffix.dialogue": {
+                    "foreground": "#58adc0"
+                },
+                "personal_pronoun": {
+                    "foreground": "#580000"
+                },
+                "personal_pronoun.dialogue": {
+                    "foreground": "#005772"
+                },
+                "pronoun": {
+                    "foreground": "#34009b",
+                    "fontStyle": "bold"
+                },
+                "pronoun.dialogue": {
+                    "foreground": "#0068f0",
+                    "fontStyle": "bold"
+                },
+                "punctuation": {
+                    "foreground": "#000000"
+                },
+                "punctuation.dialogue": {
+                    "foreground": "#284080",
+                    "fontStyle": "bold"
+                },
+                "bracket": {
+                    "foreground": "#d43c00d3"
+                },
+                "bracket.dialogue": {
+                    "foreground": "#9a0b0bd3",
+                    "bold": true
+                },
+                "bracket.quote": {
+                    "foreground": "#0b1e9ad3"
+                },
+                "adverb": {
+                    "foreground": "#b04d02"
+                },
+                "adverb.dialogue": {
+                    "foreground": "#30be91"
+                },
+                "auailiary_verb": {
+                    "foreground": "#da05ff"
+                },
+                "auailiary_verb.dialogue": {
+                    "foreground": "#567387"
+                },
+                "verb": {
+                    "foreground": "#8800ff"
+                },
+                "verb.dialogue": {
+                    "foreground": "#7fad00"
+                },
+                "particle": {
+                    "foreground": "#0000ff"
+                },
+                "particle.dialogue": {
+                    "foreground": "#059f2e"
+                },
+                "adjective": {
+                    "foreground": "#0771a7"
+                },
+                "interjection": {
+                    "foreground": "#ac6404",
+                    "fontStyle": "bold"
+                },
+                "interjection.dialogue": {
+                    "foreground": "#20b336",
+                    "fontStyle": "bold"
+                },
+                "*.quote": {
+                    "italic": true,
+                    "bold": true
+                },
+                "*.aozora": {
+                    "foreground": "#9d9d9d",
+                    "italic": true
+                },
+                "bracket.aozora": {
+                    "foreground": "#c28458"
+                }
+            }
+        },
+        "[Default Dark+]": {
+            "enabled": true,
+            "rules": {
+                "noun": {
+                    "foreground": "#77c4fc"
+                },
+                "noun.dialogue": {
+                    "foreground": "#1dfcbd"
+                },
+                "proper_noun": {
+                    "foreground": "#5d8ffb"
+                },
+                "proper_noun.dialogue": {
+                    "foreground": "#0efd52",
+                    "fontStyle": "standard"
+                },
+                "enum": {
+                    "foreground": "#8fa4e9"
+                },
+                "enum.dialogue": {
+                    "foreground": "#02d4c6"
+                },
+                "suffix": {
+                    "foreground": "#9489db"
+                },
+                "suffix.dialogue": {
+                    "foreground": "#4efab0"
+                },
+                "personal_pronoun": {
+                    "foreground": "#83c1ff"
+                },
+                "personal_pronoun.dialogue": {
+                    "foreground": "#00aade"
+                },
+                "pronoun": {
+                    "foreground": "#6767ff",
+                    "fontStyle": "bold"
+                },
+                "pronoun.dialogue": {
+                    "foreground": "#00c0f0",
+                    "fontStyle": "bold"
+                },
+                "punctuation": {
+                    "foreground": "#ffffff"
+                },
+                "punctuation.dialogue": {
+                    "foreground": "#c7ffca",
+                    "fontStyle": "bold"
+                },
+                "bracket": {
+                    "foreground": "#d43c00d3"
+                },
+                "bracket.dialogue": {
+                    "foreground": "#ff9900d3",
+                    "bold": true
+                },
+                "bracket.quote": {
+                    "foreground": "#5469f1d3"
+                },
+                "adverb": {
+                    "foreground": "#ff882d"
+                },
+                "adverb.dialogue": {
+                    "foreground": "#30be80"
+                },
+                "auailiary_verb": {
+                    "foreground": "#fdb5ff"
+                },
+                "auailiary_verb.dialogue": {
+                    "foreground": "#22ca73"
+                },
+                "verb": {
+                    "foreground": "#fc50ff"
+                },
+                "verb.dialogue": {
+                    "foreground": "#29ff9b"
+                },
+                "particle": {
+                    "foreground": "#03cccf"
+                },
+                "particle.dialogue": {
+                    "foreground": "#b7f0bc"
+                },
+                "adjective": {
+                    "foreground": "#0771a7"
+                },
+                "adjective.dialogue": {
+                    "foreground": "#07a74c"
+                },
+                "interjection": {
+                    "foreground": "#ac6404",
+                    "fontStyle": "bold"
+                },
+                "interjection.dialogue": {
+                    "foreground": "#22c54b",
+                    "fontStyle": "bold"
+                },
+                "*.quote": {
+                    "italic": true,
+                    "bold": true
+                },
+                "*.aozora": {
+                    "foreground": "#807e7e",
+                    "italic": true
+                },
+                "bracket.aozora": {
+                    "foreground": "#c28458"
+                }
+            }
+        }
+    },
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "editor.fontSize": 20,
+    "editor.wordWrap": "bounded",
+    "editor.fontFamily": "Iosevka,\"Noto Serif JP\""
+}
