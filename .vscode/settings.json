@@ -221,5 +221,9 @@
     "editor.unicodeHighlight.invisibleCharacters": false,
     "editor.fontSize": 20,
     "editor.wordWrap": "bounded",
-    "editor.fontFamily": "Iosevka,\"Noto Serif JP\""
+    "editor.fontFamily": "Iosevka,\"Noto Serif JP\"",
+    "files.autoSave": "afterDelay",
+    "editor.wordWrapColumn": 76,
+    "editor.minimap.scale": 2,
+    "editor.minimap.size": "proportional"
 }
